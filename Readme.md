@@ -1,7 +1,7 @@
 
 # cached-readfile
 
-  cached readfile. stores the file in memory. not suitable for large files, useful for small files like pid files. Same signature as [fs.readFile](http://nodejs.org/api/fs.html#fs_fs_readfile_filename_options_callback)
+  cached fs.readFile. stores the file in memory. not suitable for large files, useful for small files like pid files. Same signature as [fs.readFile](http://nodejs.org/api/fs.html#fs_fs_readfile_filename_options_callback).
 
 ## Example
 
