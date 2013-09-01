@@ -1,0 +1,13 @@
+{
+  "name": "cached-readfile",
+  "version": "0.0.1",
+  "description": "cached read file",
+  "keywords": ["readfile", "cached"],
+  "author": "matthew mueller <mattmuelle@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
